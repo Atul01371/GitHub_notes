@@ -1,0 +1,39 @@
+clone & status 
+
+
+clone -Clone a repository onour local machine
+
+            git clone <-some link->
+
+
+status -display the state of the code 
+
+ 
+             git status
+
+
+*untracked 
+  : new files that git doesn't yet track
+
+modified 
+: changed
+
+
+*stages 
+:file is ready to be committed
+
+*unmodified
+:unchanged
+
+git status
+
+
+https://atul01371.github.io/Portfolio_atul/#about
+git push origin main // change in GitHub account 
+
+
+
+
+
+
+https://atul01371.github.io/Portfolio_atul/
